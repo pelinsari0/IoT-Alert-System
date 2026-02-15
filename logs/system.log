@@ -1,0 +1,593 @@
+2025-12-08 13:38:33,214 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=21.6°C, H=45.1%, MOTION=False
+2025-12-08 13:38:33,251 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.8°C at bedroom (sensor-2)
+2025-12-08 13:38:33,278 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=23.2°C, H=30.2%, MOTION=False
+2025-12-08 13:38:38,294 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=26.9°C, H=69.9%, MOTION=True
+2025-12-08 13:38:38,326 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.1°C at bedroom (sensor-2)
+2025-12-08 13:38:38,349 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=22.8°C, H=68.7%, MOTION=False
+2025-12-08 13:38:56,581 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=25.7°C, H=56.8%, MOTION=False
+2025-12-08 13:38:56,617 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.2°C at bedroom (sensor-2)
+2025-12-08 13:38:56,626 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 72.6% at bedroom (sensor-2)
+2025-12-08 13:38:56,651 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.4°C at kitchen (sensor-3)
+2025-12-08 13:39:01,673 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.8°C at living_room (sensor-1)
+2025-12-08 13:39:01,698 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 70.8% at bedroom (sensor-2)
+2025-12-08 13:39:01,721 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.2°C at kitchen (sensor-3)
+2025-12-08 13:39:06,742 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=27.4°C, H=47.5%, MOTION=False
+2025-12-08 13:39:06,771 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 77.1% at bedroom (sensor-2)
+2025-12-08 13:39:06,806 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=21.7°C, H=50.5%, MOTION=False
+2025-12-08 13:39:11,831 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.8°C at living_room (sensor-1)
+2025-12-08 13:39:11,856 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=21.3°C, H=41.4%, MOTION=False
+2025-12-08 13:39:11,878 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=27.4°C, H=51.4%, MOTION=False
+2025-12-08 13:39:16,915 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=27.9°C, H=41.8%, MOTION=False
+2025-12-08 13:39:16,943 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 75.9% at bedroom (sensor-2)
+2025-12-08 13:39:16,970 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.0°C at kitchen (sensor-3)
+2025-12-08 13:39:21,989 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=26.4°C, H=39.6%, MOTION=True
+2025-12-08 13:39:22,020 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.8°C at bedroom (sensor-2)
+2025-12-08 13:39:22,028 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 70.1% at bedroom (sensor-2)
+2025-12-08 13:39:22,056 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.6°C at kitchen (sensor-3)
+2025-12-08 13:39:27,091 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.4°C at living_room (sensor-1)
+2025-12-08 13:39:27,105 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 76.6% at living_room (sensor-1)
+2025-12-08 13:39:27,146 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 25.1% at bedroom (sensor-2)
+2025-12-08 13:39:27,184 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=24.9°C, H=59.7%, MOTION=False
+2025-12-08 13:39:32,216 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.6°C at living_room (sensor-1)
+2025-12-08 13:39:32,241 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=24.9°C, H=45.9%, MOTION=False
+2025-12-08 13:39:32,268 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=20.1°C, H=31.0%, MOTION=False
+2025-12-08 13:39:37,297 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 29.1% at living_room (sensor-1)
+2025-12-08 13:39:37,323 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=25.0°C, H=43.1%, MOTION=True
+2025-12-08 13:39:37,356 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=25.4°C, H=57.3%, MOTION=False
+2025-12-08 13:39:42,378 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=24.6°C, H=36.1%, MOTION=True
+2025-12-08 13:39:42,421 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.6°C at bedroom (sensor-2)
+2025-12-08 13:39:42,434 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 71.9% at bedroom (sensor-2)
+2025-12-08 13:39:42,466 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=21.8°C, H=57.3%, MOTION=False
+2025-12-08 13:39:47,503 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.8°C at living_room (sensor-1)
+2025-12-08 13:39:47,543 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.1°C at bedroom (sensor-2)
+2025-12-08 13:39:47,570 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=27.1°C, H=48.2%, MOTION=False
+2025-12-08 13:39:52,620 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=24.4°C, H=65.0%, MOTION=False
+2025-12-08 13:39:52,648 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.4°C at bedroom (sensor-2)
+2025-12-08 13:39:52,658 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 74.5% at bedroom (sensor-2)
+2025-12-08 13:39:52,703 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 79.2% at kitchen (sensor-3)
+2025-12-08 13:39:57,746 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 26.1% at living_room (sensor-1)
+2025-12-08 13:39:57,762 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=22.9°C, H=62.9%, MOTION=False
+2025-12-08 13:39:57,813 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.8°C at kitchen (sensor-3)
+2025-12-08 13:40:02,831 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=20.4°C, H=58.8%, MOTION=True
+2025-12-08 13:40:02,862 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=23.4°C, H=56.2%, MOTION=False
+2025-12-08 13:40:02,886 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.6°C at kitchen (sensor-3)
+2025-12-08 13:40:07,900 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=21.6°C, H=30.8%, MOTION=False
+2025-12-08 13:40:07,919 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.0°C at bedroom (sensor-2)
+2025-12-08 13:40:07,942 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.7°C at kitchen (sensor-3)
+2025-12-08 13:40:12,974 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.7°C at living_room (sensor-1)
+2025-12-08 13:40:12,981 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 72.8% at living_room (sensor-1)
+2025-12-08 13:40:13,016 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=21.8°C, H=52.1%, MOTION=False
+2025-12-08 13:40:13,043 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.5°C at kitchen (sensor-3)
+2025-12-08 13:40:18,097 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 29.8% at living_room (sensor-1)
+2025-12-08 13:40:18,121 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.2°C at bedroom (sensor-2)
+2025-12-08 13:40:18,132 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 26.0% at bedroom (sensor-2)
+2025-12-08 13:40:18,154 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.9°C at kitchen (sensor-3)
+2025-12-08 13:40:23,177 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.3°C at living_room (sensor-1)
+2025-12-08 13:40:23,184 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 27.0% at living_room (sensor-1)
+2025-12-08 13:40:23,211 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.1°C at bedroom (sensor-2)
+2025-12-08 13:40:23,218 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 73.3% at bedroom (sensor-2)
+2025-12-08 13:40:23,234 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=22.9°C, H=53.4%, MOTION=True
+2025-12-08 13:40:29,819 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 28.3% at living_room (sensor-1)
+2025-12-08 13:40:29,834 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=21.1°C, H=53.2%, MOTION=False
+2025-12-08 13:40:29,858 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.7°C at kitchen (sensor-3)
+2025-12-08 13:40:34,879 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=23.6°C, H=53.2%, MOTION=False
+2025-12-08 13:40:34,905 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.9°C at bedroom (sensor-2)
+2025-12-08 13:40:34,913 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 74.3% at bedroom (sensor-2)
+2025-12-08 13:40:34,947 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.5°C at kitchen (sensor-3)
+2025-12-08 13:40:39,981 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=21.1°C, H=56.4%, MOTION=True
+2025-12-08 13:40:40,009 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.3°C at bedroom (sensor-2)
+2025-12-08 13:40:40,036 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.9°C at kitchen (sensor-3)
+2025-12-08 13:40:40,044 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 79.2% at kitchen (sensor-3)
+2025-12-08 13:40:45,087 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.5°C at living_room (sensor-1)
+2025-12-08 13:40:45,109 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.8°C at bedroom (sensor-2)
+2025-12-08 13:40:45,152 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.1°C at kitchen (sensor-3)
+2025-12-08 13:40:47,672 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=25.1°C, H=30.3%, MOTION=True
+2025-12-08 13:40:47,693 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=22.4°C, H=37.7%, MOTION=True
+2025-12-08 13:40:47,709 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=26.3°C, H=43.4%, MOTION=False
+2025-12-08 13:40:52,728 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=27.9°C, H=33.2%, MOTION=False
+2025-12-08 13:40:52,754 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.0°C at bedroom (sensor-2)
+2025-12-08 13:40:52,778 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.7°C at kitchen (sensor-3)
+2025-12-08 13:40:57,798 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=21.4°C, H=37.5%, MOTION=True
+2025-12-08 13:40:57,823 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 73.1% at bedroom (sensor-2)
+2025-12-08 13:40:57,847 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.7°C at kitchen (sensor-3)
+2025-12-08 13:40:57,854 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 29.3% at kitchen (sensor-3)
+2025-12-08 13:41:02,884 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.6°C at living_room (sensor-1)
+2025-12-08 13:41:02,909 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 75.0% at bedroom (sensor-2)
+2025-12-08 13:41:02,937 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.2°C at kitchen (sensor-3)
+2025-12-08 13:41:07,965 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 73.1% at living_room (sensor-1)
+2025-12-08 13:41:08,011 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.3°C at bedroom (sensor-2)
+2025-12-08 13:41:08,028 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=22.1°C, H=50.4%, MOTION=False
+2025-12-08 13:41:13,056 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.9°C at living_room (sensor-1)
+2025-12-08 13:41:13,088 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 77.8% at bedroom (sensor-2)
+2025-12-08 13:41:13,122 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.2°C at kitchen (sensor-3)
+2025-12-08 13:41:18,159 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.3°C at living_room (sensor-1)
+2025-12-08 13:41:18,180 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=24.7°C, H=58.1%, MOTION=True
+2025-12-08 13:41:18,220 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 29.9% at kitchen (sensor-3)
+2025-12-08 13:41:23,241 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=26.4°C, H=56.1%, MOTION=False
+2025-12-08 13:41:23,277 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.9°C at bedroom (sensor-2)
+2025-12-08 13:41:23,306 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.7°C at kitchen (sensor-3)
+2025-12-08 13:41:23,318 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 72.0% at kitchen (sensor-3)
+2025-12-08 13:41:28,346 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=25.0°C, H=66.3%, MOTION=True
+2025-12-08 13:41:28,377 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 74.8% at bedroom (sensor-2)
+2025-12-08 13:41:28,413 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.6°C at kitchen (sensor-3)
+2025-12-08 13:41:33,446 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.9°C at living_room (sensor-1)
+2025-12-08 13:41:33,478 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.3°C at bedroom (sensor-2)
+2025-12-08 13:41:33,506 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.8°C at kitchen (sensor-3)
+2025-12-08 13:41:38,534 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 26.6% at living_room (sensor-1)
+2025-12-08 13:41:38,565 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.4°C at bedroom (sensor-2)
+2025-12-08 13:41:38,594 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 75.7% at kitchen (sensor-3)
+2025-12-08 13:41:43,621 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.9°C at living_room (sensor-1)
+2025-12-08 13:41:43,671 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.4°C at bedroom (sensor-2)
+2025-12-08 13:41:43,697 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 29.6% at kitchen (sensor-3)
+2025-12-08 13:41:48,720 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.7°C at living_room (sensor-1)
+2025-12-08 13:41:48,744 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.8°C at bedroom (sensor-2)
+2025-12-08 13:41:48,751 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 27.6% at bedroom (sensor-2)
+2025-12-08 13:41:48,772 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=25.9°C, H=38.0%, MOTION=False
+2025-12-08 13:41:53,794 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 27.0% at living_room (sensor-1)
+2025-12-08 13:41:53,811 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=26.8°C, H=48.0%, MOTION=False
+2025-12-08 13:41:53,834 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.8°C at kitchen (sensor-3)
+2025-12-08 13:41:58,856 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.4°C at living_room (sensor-1)
+2025-12-08 13:41:58,878 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=26.3°C, H=64.4%, MOTION=False
+2025-12-08 13:41:58,908 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 72.0% at kitchen (sensor-3)
+2025-12-08 13:42:03,945 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.9°C at living_room (sensor-1)
+2025-12-08 13:42:03,981 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 70.8% at bedroom (sensor-2)
+2025-12-08 13:42:04,020 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.6°C at kitchen (sensor-3)
+2025-12-08 13:42:04,030 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 27.1% at kitchen (sensor-3)
+2025-12-08 13:42:09,058 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.6°C at living_room (sensor-1)
+2025-12-08 13:42:09,085 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.2°C at bedroom (sensor-2)
+2025-12-08 13:42:09,104 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=21.3°C, H=40.8%, MOTION=False
+2025-12-08 13:42:14,122 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=20.9°C, H=66.5%, MOTION=True
+2025-12-08 13:42:14,143 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=20.7°C, H=32.4%, MOTION=False
+2025-12-08 13:42:14,170 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 25.9% at kitchen (sensor-3)
+2025-12-08 13:42:19,199 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.0°C at living_room (sensor-1)
+2025-12-08 13:42:19,217 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=27.8°C, H=65.3%, MOTION=False
+2025-12-08 13:42:19,233 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=25.3°C, H=40.7%, MOTION=False
+2025-12-08 13:42:24,255 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=21.9°C, H=33.7%, MOTION=True
+2025-12-08 13:42:24,287 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 76.2% at bedroom (sensor-2)
+2025-12-08 13:42:24,319 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 27.6% at kitchen (sensor-3)
+2025-12-08 13:42:29,349 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 29.4% at living_room (sensor-1)
+2025-12-08 13:42:29,373 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.6°C at bedroom (sensor-2)
+2025-12-08 13:42:29,419 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.3°C at kitchen (sensor-3)
+2025-12-08 13:42:34,435 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=27.9°C, H=50.3%, MOTION=True
+2025-12-08 13:42:34,458 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.0°C at bedroom (sensor-2)
+2025-12-08 13:42:34,476 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=27.2°C, H=62.4%, MOTION=True
+2025-12-08 13:42:39,499 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=23.1°C, H=62.5%, MOTION=False
+2025-12-08 13:42:39,514 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=24.4°C, H=62.4%, MOTION=False
+2025-12-08 13:42:39,541 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.5°C at kitchen (sensor-3)
+2025-12-08 13:42:44,569 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.6°C at living_room (sensor-1)
+2025-12-08 13:42:44,576 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 74.3% at living_room (sensor-1)
+2025-12-08 13:42:44,595 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=26.0°C, H=34.4%, MOTION=False
+2025-12-08 13:42:44,615 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=21.8°C, H=35.1%, MOTION=True
+2025-12-08 13:42:49,634 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=22.1°C, H=49.5%, MOTION=False
+2025-12-08 13:42:49,657 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 70.6% at bedroom (sensor-2)
+2025-12-08 13:42:49,683 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.2°C at kitchen (sensor-3)
+2025-12-08 13:42:54,710 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.9°C at living_room (sensor-1)
+2025-12-08 13:42:54,736 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.8°C at bedroom (sensor-2)
+2025-12-08 13:42:54,768 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.6°C at kitchen (sensor-3)
+2025-12-08 13:42:59,788 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=27.3°C, H=35.9%, MOTION=False
+2025-12-08 13:42:59,816 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.7°C at bedroom (sensor-2)
+2025-12-08 13:42:59,825 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 76.1% at bedroom (sensor-2)
+2025-12-08 13:42:59,852 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.9°C at kitchen (sensor-3)
+2025-12-08 13:42:59,861 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 25.9% at kitchen (sensor-3)
+2025-12-08 13:43:04,887 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 28.5% at living_room (sensor-1)
+2025-12-08 13:43:04,903 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=26.2°C, H=33.9%, MOTION=False
+2025-12-08 13:43:04,926 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.0°C at kitchen (sensor-3)
+2025-12-08 13:43:09,952 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.4°C at living_room (sensor-1)
+2025-12-08 13:43:09,975 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.2°C at bedroom (sensor-2)
+2025-12-08 13:43:09,999 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 29.5% at kitchen (sensor-3)
+2025-12-08 13:43:15,030 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.8°C at living_room (sensor-1)
+2025-12-08 13:43:15,052 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=23.4°C, H=56.4%, MOTION=False
+2025-12-08 13:43:15,085 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.7°C at kitchen (sensor-3)
+2025-12-08 13:43:20,103 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=21.0°C, H=51.3%, MOTION=False
+2025-12-08 13:43:20,122 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=25.4°C, H=48.4%, MOTION=False
+2025-12-08 13:43:20,153 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.5°C at kitchen (sensor-3)
+2025-12-08 13:43:25,182 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.8°C at living_room (sensor-1)
+2025-12-08 13:43:25,206 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 72.8% at bedroom (sensor-2)
+2025-12-08 13:43:25,230 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=22.7°C, H=57.1%, MOTION=False
+2025-12-08 13:43:30,258 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 26.1% at living_room (sensor-1)
+2025-12-08 13:43:30,295 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.1°C at bedroom (sensor-2)
+2025-12-08 13:43:30,320 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=27.9°C, H=41.3%, MOTION=True
+2025-12-08 13:43:35,351 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.0°C at living_room (sensor-1)
+2025-12-08 13:43:35,379 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.7°C at bedroom (sensor-2)
+2025-12-08 13:43:35,424 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.3°C at kitchen (sensor-3)
+2025-12-08 13:43:40,451 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.9°C at living_room (sensor-1)
+2025-12-08 13:43:40,470 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=24.2°C, H=47.7%, MOTION=False
+2025-12-08 13:43:40,507 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=20.4°C, H=53.2%, MOTION=False
+2025-12-08 13:43:45,534 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.7°C at living_room (sensor-1)
+2025-12-08 13:43:45,564 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.2°C at bedroom (sensor-2)
+2025-12-08 13:43:45,590 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 28.2% at kitchen (sensor-3)
+2025-12-08 13:43:50,615 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.3°C at living_room (sensor-1)
+2025-12-08 13:43:50,641 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.9°C at bedroom (sensor-2)
+2025-12-08 13:43:50,668 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.6°C at kitchen (sensor-3)
+2025-12-08 13:43:55,696 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 26.6% at living_room (sensor-1)
+2025-12-08 13:43:55,719 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.1°C at bedroom (sensor-2)
+2025-12-08 13:43:55,727 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 78.8% at bedroom (sensor-2)
+2025-12-08 13:43:55,754 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 26.8% at kitchen (sensor-3)
+2025-12-08 13:44:00,787 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.9°C at living_room (sensor-1)
+2025-12-08 13:44:00,834 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 74.6% at bedroom (sensor-2)
+2025-12-08 13:44:00,887 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.2°C at kitchen (sensor-3)
+2025-12-08 13:44:05,910 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=25.1°C, H=47.2%, MOTION=True
+2025-12-08 13:44:05,928 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=20.9°C, H=68.2%, MOTION=True
+2025-12-08 13:44:05,950 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=20.5°C, H=63.6%, MOTION=False
+2025-12-08 13:44:10,996 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.2°C at living_room (sensor-1)
+2025-12-08 13:44:11,028 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 26.3% at bedroom (sensor-2)
+2025-12-08 13:44:11,075 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 26.7% at kitchen (sensor-3)
+2025-12-08 13:44:16,104 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.9°C at living_room (sensor-1)
+2025-12-08 13:44:16,114 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 26.2% at living_room (sensor-1)
+2025-12-08 13:44:16,131 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=20.4°C, H=31.6%, MOTION=True
+2025-12-08 13:44:16,153 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=26.9°C, H=33.4%, MOTION=True
+2025-12-08 13:44:21,179 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.4°C at living_room (sensor-1)
+2025-12-08 13:44:21,187 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 74.0% at living_room (sensor-1)
+2025-12-08 13:44:21,210 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.0°C at bedroom (sensor-2)
+2025-12-08 13:44:21,253 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.1°C at kitchen (sensor-3)
+2025-12-08 13:44:26,281 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 79.2% at living_room (sensor-1)
+2025-12-08 13:44:26,303 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=24.9°C, H=34.1%, MOTION=False
+2025-12-08 13:44:26,331 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.9°C at kitchen (sensor-3)
+2025-12-08 13:44:31,357 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 73.4% at living_room (sensor-1)
+2025-12-08 13:44:31,386 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 70.6% at bedroom (sensor-2)
+2025-12-08 13:44:31,405 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=25.0°C, H=61.5%, MOTION=False
+2025-12-08 13:44:36,436 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.4°C at living_room (sensor-1)
+2025-12-08 13:44:36,453 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=20.6°C, H=64.2%, MOTION=False
+2025-12-08 13:44:36,477 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=24.0°C, H=51.0%, MOTION=True
+2025-12-08 13:44:41,506 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.3°C at living_room (sensor-1)
+2025-12-08 13:44:41,533 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=23.4°C, H=38.3%, MOTION=False
+2025-12-08 13:44:41,552 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=25.0°C, H=64.8%, MOTION=False
+2025-12-08 13:44:46,585 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 75.7% at living_room (sensor-1)
+2025-12-08 13:44:46,605 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=20.4°C, H=53.1%, MOTION=False
+2025-12-08 13:44:46,626 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=24.1°C, H=51.5%, MOTION=True
+2025-12-08 13:44:51,657 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.9°C at living_room (sensor-1)
+2025-12-08 13:44:51,666 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 79.5% at living_room (sensor-1)
+2025-12-08 13:44:51,694 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.4°C at bedroom (sensor-2)
+2025-12-08 13:44:51,713 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=21.7°C, H=54.9%, MOTION=False
+2025-12-08 13:44:56,738 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 74.3% at living_room (sensor-1)
+2025-12-08 13:44:56,757 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=20.8°C, H=31.9%, MOTION=True
+2025-12-08 13:44:56,780 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.7°C at kitchen (sensor-3)
+2025-12-08 13:45:01,821 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.3°C at living_room (sensor-1)
+2025-12-08 13:45:01,845 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.8°C at bedroom (sensor-2)
+2025-12-08 13:45:01,871 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.1°C at kitchen (sensor-3)
+2025-12-08 13:45:01,879 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 72.4% at kitchen (sensor-3)
+2025-12-08 13:45:06,910 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.5°C at living_room (sensor-1)
+2025-12-08 13:45:06,932 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.0°C at bedroom (sensor-2)
+2025-12-08 13:45:06,961 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.2°C at kitchen (sensor-3)
+2025-12-08 13:45:11,990 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.0°C at living_room (sensor-1)
+2025-12-08 13:45:11,998 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 78.0% at living_room (sensor-1)
+2025-12-08 13:45:12,016 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=21.1°C, H=68.2%, MOTION=False
+2025-12-08 13:45:12,045 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.1°C at kitchen (sensor-3)
+2025-12-08 13:45:17,074 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.9°C at living_room (sensor-1)
+2025-12-08 13:45:17,083 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 79.6% at living_room (sensor-1)
+2025-12-08 13:45:17,102 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=22.7°C, H=45.8%, MOTION=False
+2025-12-08 13:45:17,127 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 76.9% at kitchen (sensor-3)
+2025-12-08 13:45:22,157 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.0°C at living_room (sensor-1)
+2025-12-08 13:45:22,174 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=22.3°C, H=46.1%, MOTION=False
+2025-12-08 13:45:22,199 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.9°C at kitchen (sensor-3)
+2025-12-08 13:45:27,230 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.8°C at living_room (sensor-1)
+2025-12-08 13:45:27,249 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=27.4°C, H=44.0%, MOTION=True
+2025-12-08 13:45:27,283 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.5°C at kitchen (sensor-3)
+2025-12-08 13:45:32,305 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=27.2°C, H=55.8%, MOTION=False
+2025-12-08 13:45:32,353 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.9°C at bedroom (sensor-2)
+2025-12-08 13:45:32,377 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.4°C at kitchen (sensor-3)
+2025-12-08 13:45:37,397 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=21.5°C, H=60.3%, MOTION=True
+2025-12-08 13:45:37,416 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=27.2°C, H=48.3%, MOTION=True
+2025-12-08 13:45:37,444 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.0°C at kitchen (sensor-3)
+2025-12-08 13:45:42,462 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=21.6°C, H=56.5%, MOTION=False
+2025-12-08 13:45:42,503 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.8°C at bedroom (sensor-2)
+2025-12-08 13:45:42,518 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=23.8°C, H=34.7%, MOTION=False
+2025-12-08 13:45:47,537 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=21.4°C, H=68.3%, MOTION=False
+2025-12-08 13:45:47,555 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=22.9°C, H=38.6%, MOTION=True
+2025-12-08 13:45:47,571 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=26.5°C, H=44.4%, MOTION=True
+2025-12-08 13:45:52,619 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 79.3% at living_room (sensor-1)
+2025-12-08 13:45:52,645 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.1°C at bedroom (sensor-2)
+2025-12-08 13:45:52,665 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=26.2°C, H=44.3%, MOTION=False
+2025-12-08 13:45:57,707 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=26.1°C, H=49.9%, MOTION=False
+2025-12-08 13:45:57,731 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.3°C at bedroom (sensor-2)
+2025-12-08 13:45:57,743 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 70.1% at bedroom (sensor-2)
+2025-12-08 13:45:57,771 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.7°C at kitchen (sensor-3)
+2025-12-08 13:46:02,805 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 78.1% at living_room (sensor-1)
+2025-12-08 13:46:02,835 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 76.9% at bedroom (sensor-2)
+2025-12-08 13:46:02,861 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.2°C at kitchen (sensor-3)
+2025-12-08 13:46:07,889 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.9°C at living_room (sensor-1)
+2025-12-08 13:46:07,912 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 28.7% at living_room (sensor-1)
+2025-12-08 13:46:07,938 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.1°C at bedroom (sensor-2)
+2025-12-08 13:46:07,969 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 77.2% at kitchen (sensor-3)
+2025-12-08 13:46:12,994 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.8°C at living_room (sensor-1)
+2025-12-08 13:46:13,001 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 72.7% at living_room (sensor-1)
+2025-12-08 13:46:13,022 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=25.9°C, H=59.9%, MOTION=False
+2025-12-08 13:46:13,046 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.9°C at kitchen (sensor-3)
+2025-12-08 13:46:13,055 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 71.5% at kitchen (sensor-3)
+2025-12-08 13:46:18,075 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=23.2°C, H=54.8%, MOTION=False
+2025-12-08 13:46:18,093 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=24.7°C, H=47.9%, MOTION=False
+2025-12-08 13:46:18,111 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=22.3°C, H=42.6%, MOTION=True
+2025-12-08 13:46:23,135 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.0°C at living_room (sensor-1)
+2025-12-08 13:46:23,159 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.9°C at bedroom (sensor-2)
+2025-12-08 13:46:23,177 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=25.7°C, H=69.1%, MOTION=False
+2025-12-08 13:46:28,200 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.6°C at living_room (sensor-1)
+2025-12-08 13:46:28,217 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=24.3°C, H=53.2%, MOTION=True
+2025-12-08 13:46:28,235 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=25.5°C, H=45.5%, MOTION=True
+2025-12-08 13:46:33,262 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 74.4% at living_room (sensor-1)
+2025-12-08 13:46:33,288 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 26.6% at bedroom (sensor-2)
+2025-12-08 13:46:33,315 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 28.2% at kitchen (sensor-3)
+2025-12-08 13:46:38,334 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=23.4°C, H=63.1%, MOTION=False
+2025-12-08 13:46:38,379 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.8°C at bedroom (sensor-2)
+2025-12-08 13:46:38,404 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.5°C at kitchen (sensor-3)
+2025-12-08 13:46:38,413 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 26.0% at kitchen (sensor-3)
+2025-12-08 13:46:43,435 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=25.1°C, H=39.3%, MOTION=False
+2025-12-08 13:46:43,457 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.7°C at bedroom (sensor-2)
+2025-12-08 13:46:43,481 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 71.7% at kitchen (sensor-3)
+2025-12-08 13:46:48,525 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.6°C at living_room (sensor-1)
+2025-12-08 13:46:48,574 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.7°C at bedroom (sensor-2)
+2025-12-08 13:46:48,592 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=21.1°C, H=42.4%, MOTION=False
+2025-12-08 13:46:53,613 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=25.3°C, H=63.4%, MOTION=False
+2025-12-08 13:46:53,639 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 73.2% at bedroom (sensor-2)
+2025-12-08 13:46:53,663 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.7°C at kitchen (sensor-3)
+2025-12-08 13:46:58,684 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=21.5°C, H=56.9%, MOTION=False
+2025-12-08 13:46:58,703 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=23.7°C, H=35.0%, MOTION=False
+2025-12-08 13:46:58,719 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=23.1°C, H=67.2%, MOTION=False
+2025-12-08 13:47:03,736 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=27.7°C, H=33.1%, MOTION=False
+2025-12-08 13:47:03,774 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=24.7°C, H=30.9%, MOTION=True
+2025-12-08 13:47:03,815 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.4°C at kitchen (sensor-3)
+2025-12-08 14:13:22,243 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=23.1°C, H=53.3%, MOTION=False
+2025-12-08 14:13:22,275 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.9°C at bedroom (sensor-2)
+2025-12-08 14:13:22,290 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 73.5% at bedroom (sensor-2)
+2025-12-08 14:13:22,324 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 73.3% at kitchen (sensor-3)
+2025-12-08 14:13:27,353 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 77.5% at living_room (sensor-1)
+2025-12-08 14:13:27,378 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.8°C at bedroom (sensor-2)
+2025-12-08 14:13:27,405 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.3°C at kitchen (sensor-3)
+2025-12-08 14:13:32,425 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=25.6°C, H=51.2%, MOTION=True
+2025-12-08 14:13:32,464 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=20.0°C, H=60.0%, MOTION=True
+2025-12-08 14:13:32,490 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.2°C at kitchen (sensor-3)
+2025-12-08 14:13:37,520 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 29.6% at living_room (sensor-1)
+2025-12-08 14:13:37,549 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.1°C at bedroom (sensor-2)
+2025-12-08 14:13:37,557 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 28.4% at bedroom (sensor-2)
+2025-12-08 14:13:37,579 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=26.1°C, H=40.8%, MOTION=False
+2025-12-08 14:21:07,069 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=24.5°C, H=32.0%, MOTION=True
+2025-12-08 14:21:07,093 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.0°C at bedroom (sensor-2)
+2025-12-08 14:21:07,103 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 72.6% at bedroom (sensor-2)
+2025-12-08 14:21:07,131 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 29.8% at kitchen (sensor-3)
+2025-12-08 14:21:12,147 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=23.1°C, H=62.9%, MOTION=False
+2025-12-08 14:21:12,170 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.8°C at bedroom (sensor-2)
+2025-12-08 14:21:12,195 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.1°C at kitchen (sensor-3)
+2025-12-08 14:21:17,211 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=26.8°C, H=33.6%, MOTION=True
+2025-12-08 14:21:17,227 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=27.5°C, H=53.5%, MOTION=False
+2025-12-08 14:21:17,249 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.9°C at kitchen (sensor-3)
+2025-12-08 14:21:22,278 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.9°C at living_room (sensor-1)
+2025-12-08 14:21:22,301 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 35.0°C at bedroom (sensor-2)
+2025-12-08 14:21:22,326 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.2°C at kitchen (sensor-3)
+2025-12-09 13:40:54,532 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.2°C at living_room (sensor-1)
+2025-12-09 13:40:54,571 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.0°C at bedroom (sensor-2)
+2025-12-09 13:40:54,593 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=23.8°C, H=41.9%, MOTION=True
+2025-12-09 13:40:59,625 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=20.1°C, H=47.5%, MOTION=False
+2025-12-09 13:40:59,652 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.6°C at bedroom (sensor-2)
+2025-12-09 13:40:59,674 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=22.7°C, H=61.1%, MOTION=False
+2025-12-09 13:41:04,694 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=20.7°C, H=64.9%, MOTION=False
+2025-12-09 13:41:04,720 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 77.4% at bedroom (sensor-2)
+2025-12-09 13:41:04,741 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=22.0°C, H=60.2%, MOTION=False
+2025-12-09 13:41:09,762 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=20.9°C, H=30.6%, MOTION=False
+2025-12-09 13:41:09,793 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.2°C at bedroom (sensor-2)
+2025-12-09 13:41:09,824 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.8°C at kitchen (sensor-3)
+2025-12-09 13:41:14,856 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.9°C at living_room (sensor-1)
+2025-12-09 13:41:14,880 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=24.3°C, H=32.0%, MOTION=False
+2025-12-09 13:41:14,900 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=24.1°C, H=42.4%, MOTION=False
+2025-12-09 13:41:19,925 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 75.9% at living_room (sensor-1)
+2025-12-09 13:41:19,951 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 76.3% at bedroom (sensor-2)
+2025-12-09 13:41:19,976 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.8°C at kitchen (sensor-3)
+2025-12-09 13:41:19,984 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 78.2% at kitchen (sensor-3)
+2025-12-09 13:41:25,007 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=26.6°C, H=48.2%, MOTION=True
+2025-12-09 13:41:25,034 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 79.7% at bedroom (sensor-2)
+2025-12-09 13:41:25,060 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 77.0% at kitchen (sensor-3)
+2025-12-09 13:41:30,089 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.9°C at living_room (sensor-1)
+2025-12-09 13:41:30,097 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 76.9% at living_room (sensor-1)
+2025-12-09 13:41:30,118 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=24.1°C, H=55.3%, MOTION=False
+2025-12-09 13:41:30,143 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.4°C at kitchen (sensor-3)
+2025-12-09 13:41:35,162 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=23.3°C, H=53.5%, MOTION=True
+2025-12-09 13:41:35,186 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.1°C at bedroom (sensor-2)
+2025-12-09 13:41:35,195 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 76.4% at bedroom (sensor-2)
+2025-12-09 13:41:35,234 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=24.2°C, H=31.1%, MOTION=False
+2025-12-09 13:41:40,255 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=27.9°C, H=66.9%, MOTION=False
+2025-12-09 13:41:40,279 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.5°C at bedroom (sensor-2)
+2025-12-09 13:41:40,313 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=27.5°C, H=31.6%, MOTION=True
+2025-12-09 13:41:45,339 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.8°C at living_room (sensor-1)
+2025-12-09 13:41:45,387 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.1°C at bedroom (sensor-2)
+2025-12-09 13:41:45,395 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 79.5% at bedroom (sensor-2)
+2025-12-09 13:41:45,422 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.0°C at kitchen (sensor-3)
+2025-12-09 13:41:45,430 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 71.6% at kitchen (sensor-3)
+2025-12-09 13:41:50,460 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.1°C at living_room (sensor-1)
+2025-12-09 13:41:50,492 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.8°C at bedroom (sensor-2)
+2025-12-09 13:41:50,502 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 73.1% at bedroom (sensor-2)
+2025-12-09 13:41:50,533 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.9°C at kitchen (sensor-3)
+2025-12-09 13:41:55,569 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.6°C at living_room (sensor-1)
+2025-12-09 13:41:55,604 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.5°C at bedroom (sensor-2)
+2025-12-09 13:41:55,631 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=24.5°C, H=58.1%, MOTION=True
+2025-12-09 13:42:00,653 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=24.2°C, H=61.4%, MOTION=False
+2025-12-09 13:42:00,676 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=24.6°C, H=65.6%, MOTION=False
+2025-12-09 13:42:00,728 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.6°C at kitchen (sensor-3)
+2025-12-09 13:42:05,756 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.6°C at living_room (sensor-1)
+2025-12-09 13:42:05,766 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 76.4% at living_room (sensor-1)
+2025-12-09 13:42:05,794 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.6°C at bedroom (sensor-2)
+2025-12-09 13:42:05,823 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.4°C at kitchen (sensor-3)
+2025-12-09 13:42:10,842 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=24.7°C, H=63.6%, MOTION=False
+2025-12-09 13:42:10,868 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 75.0% at bedroom (sensor-2)
+2025-12-09 13:42:10,894 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.5°C at kitchen (sensor-3)
+2025-12-09 13:42:15,913 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=26.7°C, H=49.1%, MOTION=True
+2025-12-09 13:42:15,936 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.1°C at bedroom (sensor-2)
+2025-12-09 13:42:15,970 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=26.5°C, H=41.1%, MOTION=True
+2025-12-09 13:42:20,998 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.3°C at living_room (sensor-1)
+2025-12-09 13:42:21,019 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=27.8°C, H=30.8%, MOTION=False
+2025-12-09 13:42:21,037 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=27.8°C, H=64.6%, MOTION=False
+2025-12-09 13:42:26,064 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.1°C at living_room (sensor-1)
+2025-12-09 13:42:26,096 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.2°C at bedroom (sensor-2)
+2025-12-09 13:42:26,107 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 76.3% at bedroom (sensor-2)
+2025-12-09 13:42:26,129 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=26.6°C, H=53.6%, MOTION=False
+2025-12-09 13:42:31,146 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=27.3°C, H=36.0%, MOTION=False
+2025-12-09 13:42:31,171 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.5°C at bedroom (sensor-2)
+2025-12-09 13:42:31,196 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 71.6% at kitchen (sensor-3)
+2025-12-09 13:42:36,225 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.2°C at living_room (sensor-1)
+2025-12-09 13:42:36,244 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=23.5°C, H=67.4%, MOTION=False
+2025-12-09 13:42:36,273 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.8°C at kitchen (sensor-3)
+2025-12-09 13:42:41,292 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=24.4°C, H=41.7%, MOTION=True
+2025-12-09 13:42:41,338 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.5°C at bedroom (sensor-2)
+2025-12-09 13:42:41,364 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.8°C at kitchen (sensor-3)
+2025-12-09 13:42:46,385 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=26.0°C, H=43.5%, MOTION=False
+2025-12-09 13:42:46,400 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=23.9°C, H=37.5%, MOTION=False
+2025-12-09 13:42:46,450 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 76.5% at kitchen (sensor-3)
+2025-12-09 13:42:51,475 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.1°C at living_room (sensor-1)
+2025-12-09 13:42:51,484 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 70.9% at living_room (sensor-1)
+2025-12-09 13:42:51,528 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 25.7% at bedroom (sensor-2)
+2025-12-09 13:42:51,556 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.7°C at kitchen (sensor-3)
+2025-12-09 13:42:56,578 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=24.9°C, H=52.6%, MOTION=True
+2025-12-09 13:42:56,608 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=27.9°C, H=34.1%, MOTION=False
+2025-12-09 13:42:56,634 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.2°C at kitchen (sensor-3)
+2025-12-09 13:43:01,682 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.8°C at living_room (sensor-1)
+2025-12-09 13:43:01,703 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=26.1°C, H=68.6%, MOTION=False
+2025-12-09 13:43:01,732 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.6°C at kitchen (sensor-3)
+2025-12-09 13:43:01,741 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 25.6% at kitchen (sensor-3)
+2025-12-09 13:43:06,773 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 77.7% at living_room (sensor-1)
+2025-12-09 13:43:06,801 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 26.8% at bedroom (sensor-2)
+2025-12-09 13:43:06,825 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 79.1% at kitchen (sensor-3)
+2025-12-09 13:43:11,857 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.3°C at living_room (sensor-1)
+2025-12-09 13:43:11,869 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 26.9% at living_room (sensor-1)
+2025-12-09 13:43:11,906 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=21.1°C, H=68.1%, MOTION=False
+2025-12-09 13:43:11,946 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 27.3% at kitchen (sensor-3)
+2025-12-09 13:43:16,966 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=21.7°C, H=31.8%, MOTION=False
+2025-12-09 13:43:16,983 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=23.0°C, H=63.8%, MOTION=False
+2025-12-09 13:43:16,999 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=28.0°C, H=58.6%, MOTION=False
+2025-12-09 13:43:22,029 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.3°C at living_room (sensor-1)
+2025-12-09 13:43:22,053 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=27.9°C, H=65.5%, MOTION=True
+2025-12-09 13:43:22,092 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.1°C at kitchen (sensor-3)
+2025-12-09 13:43:27,110 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=21.9°C, H=60.8%, MOTION=False
+2025-12-09 13:43:27,124 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=24.2°C, H=44.0%, MOTION=True
+2025-12-09 13:43:27,149 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 77.7% at kitchen (sensor-3)
+2025-12-09 13:43:32,202 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 70.4% at living_room (sensor-1)
+2025-12-09 13:43:32,233 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.7°C at bedroom (sensor-2)
+2025-12-09 13:43:32,242 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 72.1% at bedroom (sensor-2)
+2025-12-09 13:43:32,286 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=26.1°C, H=37.5%, MOTION=False
+2025-12-09 13:43:37,313 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.3°C at living_room (sensor-1)
+2025-12-09 13:43:37,341 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.6°C at bedroom (sensor-2)
+2025-12-09 13:43:37,349 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 79.1% at bedroom (sensor-2)
+2025-12-09 13:43:37,374 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 26.6% at kitchen (sensor-3)
+2025-12-09 13:43:42,403 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.9°C at living_room (sensor-1)
+2025-12-09 13:43:42,433 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.0°C at bedroom (sensor-2)
+2025-12-09 13:43:42,443 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 73.9% at bedroom (sensor-2)
+2025-12-09 13:43:42,462 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=24.9°C, H=59.1%, MOTION=False
+2025-12-09 13:43:47,494 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=22.8°C, H=49.2%, MOTION=True
+2025-12-09 13:43:47,515 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.0°C at bedroom (sensor-2)
+2025-12-09 13:43:47,524 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 29.1% at bedroom (sensor-2)
+2025-12-09 13:43:47,542 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=20.7°C, H=35.8%, MOTION=False
+2025-12-09 13:43:52,559 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=26.4°C, H=46.4%, MOTION=True
+2025-12-09 13:43:52,579 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=21.8°C, H=31.8%, MOTION=False
+2025-12-09 13:43:52,605 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 72.3% at kitchen (sensor-3)
+2025-12-09 13:43:57,627 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=25.8°C, H=61.7%, MOTION=False
+2025-12-09 13:43:57,656 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.1°C at bedroom (sensor-2)
+2025-12-09 13:43:57,693 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.8°C at kitchen (sensor-3)
+2025-12-09 13:44:02,720 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.9°C at living_room (sensor-1)
+2025-12-09 13:44:02,730 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 27.2% at living_room (sensor-1)
+2025-12-09 13:44:02,763 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.8°C at bedroom (sensor-2)
+2025-12-09 13:44:02,791 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.3°C at kitchen (sensor-3)
+2025-12-09 13:44:07,819 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 79.5% at living_room (sensor-1)
+2025-12-09 13:44:07,846 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.6°C at bedroom (sensor-2)
+2025-12-09 13:44:07,855 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 74.2% at bedroom (sensor-2)
+2025-12-09 13:44:07,877 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=22.9°C, H=64.6%, MOTION=False
+2025-12-09 13:44:12,920 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.2°C at living_room (sensor-1)
+2025-12-09 13:44:12,939 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=25.3°C, H=67.5%, MOTION=True
+2025-12-09 13:44:12,963 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.9°C at kitchen (sensor-3)
+2025-12-09 13:44:17,997 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=22.5°C, H=42.6%, MOTION=False
+2025-12-09 13:44:18,021 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.8°C at bedroom (sensor-2)
+2025-12-09 13:44:18,030 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 72.3% at bedroom (sensor-2)
+2025-12-09 13:44:18,049 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=27.7°C, H=63.0%, MOTION=False
+2025-12-09 13:44:23,090 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.0°C at living_room (sensor-1)
+2025-12-09 13:44:23,107 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=22.8°C, H=60.0%, MOTION=False
+2025-12-09 13:44:23,132 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 71.2% at kitchen (sensor-3)
+2025-12-09 13:44:28,173 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.6°C at living_room (sensor-1)
+2025-12-09 13:44:28,199 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 78.2% at bedroom (sensor-2)
+2025-12-09 13:44:28,217 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=22.7°C, H=51.1%, MOTION=True
+2025-12-09 13:44:33,236 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=26.6°C, H=56.6%, MOTION=True
+2025-12-09 13:44:33,261 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.5°C at bedroom (sensor-2)
+2025-12-09 13:44:33,297 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=25.2°C, H=35.1%, MOTION=False
+2025-12-09 13:44:38,318 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=23.3°C, H=40.7%, MOTION=True
+2025-12-09 13:44:38,339 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=27.3°C, H=41.4%, MOTION=True
+2025-12-09 13:44:38,356 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=24.1°C, H=30.5%, MOTION=False
+2025-12-09 13:44:43,389 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 75.4% at living_room (sensor-1)
+2025-12-09 13:44:43,409 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=21.6°C, H=36.9%, MOTION=False
+2025-12-09 13:44:43,437 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.1°C at kitchen (sensor-3)
+2025-12-09 13:44:48,467 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.3°C at living_room (sensor-1)
+2025-12-09 13:44:48,478 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 74.4% at living_room (sensor-1)
+2025-12-09 13:44:48,499 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=23.2°C, H=58.3%, MOTION=False
+2025-12-09 13:44:48,516 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=22.0°C, H=39.7%, MOTION=False
+2025-12-09 13:44:53,538 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=25.4°C, H=30.4%, MOTION=False
+2025-12-09 13:44:53,558 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=22.2°C, H=43.7%, MOTION=False
+2025-12-09 13:44:53,589 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 75.4% at kitchen (sensor-3)
+2025-12-09 13:44:58,626 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 73.1% at living_room (sensor-1)
+2025-12-09 13:44:58,658 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.8°C at bedroom (sensor-2)
+2025-12-09 13:44:58,682 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=25.7°C, H=61.8%, MOTION=False
+2025-12-09 13:45:03,708 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=20.9°C, H=37.3%, MOTION=False
+2025-12-09 13:45:03,741 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.1°C at bedroom (sensor-2)
+2025-12-09 13:45:03,766 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=20.2°C, H=58.4%, MOTION=False
+2025-12-09 13:45:08,793 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 27.2% at living_room (sensor-1)
+2025-12-09 13:45:08,820 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.3°C at bedroom (sensor-2)
+2025-12-09 13:45:08,845 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 71.8% at kitchen (sensor-3)
+2025-12-09 13:45:13,862 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=23.0°C, H=52.4%, MOTION=False
+2025-12-09 13:45:13,886 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.3°C at bedroom (sensor-2)
+2025-12-09 13:45:13,903 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=22.6°C, H=51.1%, MOTION=False
+2025-12-09 13:45:18,930 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 70.2% at living_room (sensor-1)
+2025-12-09 13:45:18,958 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 72.5% at bedroom (sensor-2)
+2025-12-09 13:45:18,992 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.4°C at kitchen (sensor-3)
+2025-12-09 13:45:19,003 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 27.9% at kitchen (sensor-3)
+2025-12-09 13:45:24,035 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.6°C at living_room (sensor-1)
+2025-12-09 13:45:24,057 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=22.2°C, H=46.3%, MOTION=True
+2025-12-09 13:45:24,087 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.4°C at kitchen (sensor-3)
+2025-12-09 13:45:29,117 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 73.3% at living_room (sensor-1)
+2025-12-09 13:45:29,144 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 74.3% at bedroom (sensor-2)
+2025-12-09 13:45:29,163 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=27.8°C, H=48.2%, MOTION=False
+2025-12-09 13:45:34,182 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=24.7°C, H=66.8%, MOTION=True
+2025-12-09 13:45:34,209 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.2°C at bedroom (sensor-2)
+2025-12-09 13:45:34,236 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.6°C at kitchen (sensor-3)
+2025-12-09 13:45:39,263 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.6°C at living_room (sensor-1)
+2025-12-09 13:45:39,280 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=24.8°C, H=41.3%, MOTION=False
+2025-12-09 13:45:39,311 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=27.2°C, H=32.1%, MOTION=False
+2025-12-09 13:45:44,334 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 79.0% at living_room (sensor-1)
+2025-12-09 13:45:44,357 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.2°C at bedroom (sensor-2)
+2025-12-09 13:45:44,374 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=22.7°C, H=67.3%, MOTION=False
+2025-12-09 13:45:49,390 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=27.0°C, H=64.2%, MOTION=False
+2025-12-09 13:45:49,425 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=20.3°C, H=51.3%, MOTION=False
+2025-12-09 13:45:49,452 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 26.9% at kitchen (sensor-3)
+2025-12-09 13:45:54,469 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=25.9°C, H=42.8%, MOTION=False
+2025-12-09 13:45:54,505 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 76.8% at bedroom (sensor-2)
+2025-12-09 13:45:54,530 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 29.9°C at kitchen (sensor-3)
+2025-12-09 13:45:59,557 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.8°C at living_room (sensor-1)
+2025-12-09 13:45:59,578 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=27.0°C, H=54.5%, MOTION=False
+2025-12-09 13:45:59,607 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 70.1% at kitchen (sensor-3)
+2025-12-09 13:46:04,641 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.2°C at living_room (sensor-1)
+2025-12-09 13:46:04,675 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 77.4% at bedroom (sensor-2)
+2025-12-09 13:46:04,704 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.8°C at kitchen (sensor-3)
+2025-12-09 13:46:09,757 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.4°C at living_room (sensor-1)
+2025-12-09 13:46:09,786 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 31.3°C at bedroom (sensor-2)
+2025-12-09 13:46:09,804 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=23.5°C, H=55.6%, MOTION=True
+2025-12-09 13:46:14,846 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 74.1% at living_room (sensor-1)
+2025-12-09 13:46:14,872 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 33.2°C at bedroom (sensor-2)
+2025-12-09 13:46:14,879 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 70.4% at bedroom (sensor-2)
+2025-12-09 13:46:14,898 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=26.1°C, H=33.1%, MOTION=True
+2025-12-09 13:46:19,924 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.4°C at living_room (sensor-1)
+2025-12-09 13:46:19,933 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 29.3% at living_room (sensor-1)
+2025-12-09 13:46:19,951 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=26.2°C, H=54.1%, MOTION=False
+2025-12-09 13:46:19,984 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=21.3°C, H=47.0%, MOTION=False
+2025-12-09 13:46:25,009 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.6°C at living_room (sensor-1)
+2025-12-09 13:46:25,036 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.1°C at bedroom (sensor-2)
+2025-12-09 13:46:25,052 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=27.2°C, H=57.1%, MOTION=False
+2025-12-09 13:46:30,079 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 30.9°C at living_room (sensor-1)
+2025-12-09 13:46:30,098 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=20.7°C, H=50.0%, MOTION=True
+2025-12-09 13:46:30,114 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=20.7°C, H=30.6%, MOTION=False
+2025-12-09 13:46:35,133 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=24.9°C, H=39.8%, MOTION=False
+2025-12-09 13:46:35,158 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 34.7°C at bedroom (sensor-2)
+2025-12-09 13:46:35,181 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 73.3% at kitchen (sensor-3)
+2025-12-09 13:46:40,207 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 28.4°C at living_room (sensor-1)
+2025-12-09 13:46:40,247 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=20.8°C, H=69.6%, MOTION=False
+2025-12-09 13:46:40,280 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=25.6°C, H=41.5%, MOTION=False
+2025-12-09 13:46:45,297 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=27.3°C, H=54.9%, MOTION=True
+2025-12-09 13:46:45,311 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=23.1°C, H=43.3%, MOTION=True
+2025-12-09 13:46:45,338 [WARNING] iot_alerts: ALERT [HIGH_TEMP] High temperature 32.4°C at kitchen (sensor-3)
+2025-12-09 13:46:45,346 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 70.1% at kitchen (sensor-3)
+2025-12-09 13:46:50,377 [WARNING] iot_alerts: ALERT [HUMIDITY] Abnormal humidity 27.0% at living_room (sensor-1)
+2025-12-09 13:46:50,402 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=26.5°C, H=49.1%, MOTION=False
+2025-12-09 13:46:50,425 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=22.8°C, H=32.2%, MOTION=True
+2025-12-09 13:46:55,445 [INFO] iot_alerts: Reading OK from sensor-1 at living_room: T=24.8°C, H=51.5%, MOTION=True
+2025-12-09 13:46:55,470 [INFO] iot_alerts: Reading OK from sensor-2 at bedroom: T=22.2°C, H=62.4%, MOTION=True
+2025-12-09 13:46:55,492 [INFO] iot_alerts: Reading OK from sensor-3 at kitchen: T=26.9°C, H=40.2%, MOTION=True
